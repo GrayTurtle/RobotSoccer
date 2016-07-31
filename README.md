@@ -6,11 +6,11 @@ This was a class project.
 The code was written in Python and the communcations to the robots were handled with ROS.
 
 The "code" folder is where all of the actual python scripts for manipulating the robots. It should contain:
--PrisonBreak.py
--BallFinder.py
--RobotPuppy.py
--Dodgeball.py
--RobotSoccer.py
+  PrisonBreak.py
+, BallFinder.py
+, RobotPuppy.py
+, Dodgeball.py
+, RobotSoccer.py
 
 RobotSoccer.py and BallFinder.py are both the finished product. They both need to be ran in order for the Roomba to play soccer.
 
