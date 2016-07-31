@@ -20,7 +20,7 @@ RobotSoccer.py and BallFinder.py are both the finished product. They both need t
 4. Dodgeball.py is used to go around the ball and then kick it. This also goes into search mode and does everything RobotPuppy.py does except for kicking it. Instead, it goes around the ball then kicks it.
 5. RobotSoccer.py combines elements from PrisonBreak.py and Dodgeball.py. RobotSoccer.py finds the goal, which is an AR tag. Then it goes into search mode(spins in circles) until BallFinder.py finds the ball. RobotSoccer.py then approaches, lines up, finds the shortest path around the ball, goes to that point, and lines up again and kicks the ball towards the AR tag.
 
-In the end, I played soccer with other classmates and ended up in the finals. Sadly I didn't win. I learned a lot though!
+In the end, I played soccer with other classmates and ended up in the finals. Sadly, I didn't win. I learned a lot though!
 Also, I noticed that the comments in the code get sparser as development continued (PrisonBreak.py to RobotSoccer.py). This is a mistake on my part because I didn't think I'll be uploading it to GitHub. But if you read PrisonBreak.py to RobotSoccer.py you can see a lot of ideas are repeated, so code in RobotSoccer.py could've been already commented in RobotPuppy.py. Anyways, I know it should've been commented better. If you have any questions I'll be glad to answer them to make up for this mistake!
 
 catkin_ws.zip was the actual ROS enviroment I worked in. The actual code that does everything important is in the "code" folder!
